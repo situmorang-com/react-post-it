@@ -1,2 +1,2 @@
 //This is the main file
-import {  } from "module";
+import { React } from "react";
