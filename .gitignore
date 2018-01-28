@@ -1,0 +1,10 @@
+# Comment here
+tempfile.txt
+.DS_Store
+*.zip
+*.gz
+log/*.log
+log/*.log.[0-9]
+node_modules
+.vscode
+build
